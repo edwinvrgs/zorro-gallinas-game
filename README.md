@@ -1,2 +1,3 @@
-# zorro-gallinas-game
+# El Zorro y las Gallinas
+
 A game build in C++ with Qt framework and IA
