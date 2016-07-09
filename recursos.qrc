@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Imagenes">
+        <file alias="UNET">png/logo-unet_sin_texto_azul.png</file>
+        <file alias="Fox">png/copia de fox2.png</file>
+        <file alias="Chicken">png/copia de chick1.png</file>
+    </qresource>
+</RCC>
